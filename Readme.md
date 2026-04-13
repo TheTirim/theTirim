@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tirim
 
-💻 I build backend systems, security-focused tools, and practical software prototypes.  
+💻 I build practical software systems and tools, focusing on backend logic, security-related workflows, and real-world use cases.  
 🧠 Focus on real-world applications, system logic, and security-aware design.
 
 ---
