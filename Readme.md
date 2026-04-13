@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-- 🧩 **Pingucore** – multi-tenant service desk system  
+- 🧩 **Pingucore** – service desk software with ticketing, workflows, and time tracking
 - 🛡️ **Server Sentinel** – Linux access-security monitor  
 - 🖥️ **ScreenAssistant** – desktop-based assistant tool with system integration  
 
