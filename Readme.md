@@ -10,7 +10,7 @@
 - 🧩 **Pingucore** – multi-tenant service desk system  
 - 🛡️ **Server Sentinel** – Linux access-security monitor  
 - 🖥️ **ScreenAssistant** – desktop-based assistant tool with system integration  
-- 🎮 **IceChaos** – top-down mini game prototype  
+
 
 ---
 
