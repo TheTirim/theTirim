@@ -7,6 +7,7 @@
 ## 🚀 Projects
 
 - 🧩 **Pingucore** – service desk software with ticketing, workflows, and time tracking
+- 🎟️ Ticketsystem – event ticketing system with QR scanning, staff management, admin dashboard (Android app + backend server)
 - 🛡️ **Server Sentinel** – Linux access-security monitor  
 - 🖥️ **ScreenAssistant** – desktop-based assistant tool with system integration  
 
