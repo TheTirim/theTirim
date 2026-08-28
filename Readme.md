@@ -23,7 +23,7 @@ My focus is on clear architecture, maintainable code and software that solves an
 ## 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,python,php,js,html,css,mysql,docker,git,github,linux,windows,vscode&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python,php,mysql,docker,git,linux,vscode&theme=dark" alt="Technology icons" />
 </p>
 
 ---
