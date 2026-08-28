@@ -1,21 +1,78 @@
-## 👋 Hi, I'm Tirim
+<div align="center">
 
-💻 I build practical software systems and tools, focusing on backend logic, security-related workflows, and real-world use cases.  
-🧠  Focus: backend systems, security tools, and real-world applications
+# 👋 Hi, I'm Tirim
+
+### Backend Development · Security · Automation · Software Engineering
+
+Building practical software, tools and systems for real-world use cases.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I build practical software systems and tools with a focus on backend development, security-related workflows, automation and system integration.
+
+I enjoy working on projects that go beyond simple examples — from backend services and desktop applications to monitoring tools, automation systems and software with real operational use cases.
+
+My focus is on clear architecture, maintainable code and building solutions that actually solve a problem.
+
+---
+
+## 🛠️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,java,python,php,js,html,css,mysql,docker,git,github,linux,windows,vscode&theme=dark" alt="Technology icons" />
+</p>
+
+---
+
+## 🔧 What I Work On
+
+* Backend systems and APIs
+* Database-driven applications
+* Security and monitoring tools
+* Automation and system integration
+* Desktop applications
+* Web applications and services
+* Software architecture and maintainable systems
+* Experimental tools and prototypes
+
 ---
 
 ## 🚀 Projects
 
-- 🧩 **Pingucore** – service desk software with ticketing, workflows, and time tracking
+### 🧩 Pingucore Service Desk
 
-- 🎟️ Ticketsystem – event ticketing system with QR scanning, staff management, admin dashboard
-     (Android app + backend server)
+Service desk software for ticket management, workflows and organizational processes.
 
-- 🛡️ **Server Sentinel** – Linux access-security monitor  
+### 🎟️ Event Ticket System
 
-- 🖥️ **ScreenAssistant** – desktop-based assistant tool with system integration  
+Event ticketing platform with QR-based ticket validation, staff management and administrative functionality.
 
+Includes an Android application and backend infrastructure.
+
+### 🛡️ Server Sentinel
+
+Linux-oriented access and security monitoring tool.
+
+### 🖥️ ScreenAssistant
+
+Desktop assistant application with operating-system integration and automation features.
+
+### 🎮 Game & Experimental Projects
+
+Various prototypes and experimental projects covering game development, utilities, automation and software concepts.
 
 ---
 
-🌐 More: https://thetirim.github.io/
+## 🌐 More
+
+Portfolio and additional projects:
+
+**https://thetirim.github.io/**
+
+---
+
+> I like building software that does something useful — not just software that exists.
