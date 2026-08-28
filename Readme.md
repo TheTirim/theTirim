@@ -4,7 +4,7 @@
 
 ### Backend Development · Security · Automation · Software Engineering
 
-Building practical software, tools and systems for real-world use cases.
+Building practical software, tools and systems for real-world use.
 
 </div>
 
@@ -12,11 +12,11 @@ Building practical software, tools and systems for real-world use cases.
 
 ## 👨‍💻 About Me
 
-I build practical software systems and tools with a focus on backend development, security-related workflows, automation and system integration.
+I build software with a focus on backend development, security, automation and system integration.
 
-I enjoy working on projects that go beyond simple examples — from backend services and desktop applications to monitoring tools, automation systems and software with real operational use cases.
+I enjoy creating projects that go beyond simple examples — from backend services and desktop applications to monitoring tools and larger software systems.
 
-My focus is on clear architecture, maintainable code and building solutions that actually solve a problem.
+My focus is on clear architecture, maintainable code and software that solves an actual problem.
 
 ---
 
@@ -32,46 +32,59 @@ My focus is on clear architecture, maintainable code and building solutions that
 
 * Backend systems and APIs
 * Database-driven applications
-* Security and monitoring tools
-* Automation and system integration
-* Desktop applications
-* Web applications and services
-* Software architecture and maintainable systems
-* Experimental tools and prototypes
+* Security, monitoring and automation tools
+* Desktop and web applications
+* Software architecture and experimental systems
 
 ---
 
 ## 🚀 Projects
 
-### 🧩 Pingucore Service Desk
+### 🧩 [Pingucore Service Desk](https://github.com/TheTirim/Pingucore-Service-Desk)
 
 Service desk software for ticket management, workflows and organizational processes.
 
-### 🎟️ Event Ticket System
+---
+
+### 🎟️ [Event Ticket System](https://github.com/TheTirim/-Event-Ticket-System)
 
 Event ticketing platform with QR-based ticket validation, staff management and administrative functionality.
 
 Includes an Android application and backend infrastructure.
 
-### 🛡️ Server Sentinel
+---
 
-Linux-oriented access and security monitoring tool.
+### 🛡️ [Server Sentinel](https://github.com/TheTirim/Server-Sentinel)
 
-### 🖥️ ScreenAssistant
-
-Desktop assistant application with operating-system integration and automation features.
-
-### 🎮 Game & Experimental Projects
-
-Various prototypes and experimental projects covering game development, utilities, automation and software concepts.
+Linux-oriented security and access-monitoring tool.
 
 ---
 
-## 🌐 More
+### 🖥️ [ScreenAssistant](https://github.com/TheTirim/ScreenAssistant)
 
-Portfolio and additional projects:
+Desktop assistant application with operating-system integration and automation features.
 
-**https://thetirim.github.io/**
+---
+
+### 🎮 [IceChaos](https://github.com/TheTirim/Game-IceChaos)
+
+Game-development project focused on experimenting with gameplay systems, application structure and interactive mechanics.
+
+---
+
+## 🧪 Other Projects
+
+My repositories also include experiments and prototypes covering:
+
+`Security` · `Automation` · `Networking` · `Web Development` · `Desktop Applications` · `Game Development`
+
+---
+
+## 🌐 Portfolio
+
+More projects and information:
+
+### [thetirim.github.io](https://thetirim.github.io/)
 
 ---
 
